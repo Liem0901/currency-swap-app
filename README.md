@@ -4,14 +4,14 @@ A modern, responsive cryptocurrency swap interface built with React and Vite. Th
 
 ## Features
 
-- 🔄 **Token Swapping**: Swap between multiple cryptocurrency tokens
-- 💱 **Real-time Exchange Rates**: Fetches live token prices from Switcheo API
-- 🎨 **Modern UI**: Clean black and white theme with smooth animations
-- 🔍 **Searchable Dropdowns**: React-select dropdowns with token icons and search functionality
-- ✅ **Input Validation**: Comprehensive form validation with error messages
-- 📱 **Mobile Responsive**: Fully responsive design that works on all devices
-- 🔔 **Toast Notifications**: Success notifications using SweetAlert2
-- ⚡ **Fast Performance**: Optimized with React hooks and memoization
+- **Token Swapping**: Swap between multiple cryptocurrency tokens
+- **Real-time Exchange Rates**: Fetches live token prices from Switcheo API
+- **Modern UI**: Clean black and white theme with smooth animations
+- **Searchable Dropdowns**: React-select dropdowns with token icons and search functionality
+- **Input Validation**: Comprehensive form validation with error messages
+- **Mobile Responsive**: Fully responsive design that works on all devices
+- **Toast Notifications**: Success notifications using SweetAlert2
+- **Fast Performance**: Optimized with React hooks and memoization
 
 ## Tech Stack
 
