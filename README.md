@@ -2,6 +2,9 @@
 
 A modern, responsive cryptocurrency swap interface built with React and Vite. This application allows users to swap between different cryptocurrency tokens with real-time exchange rates and an intuitive user interface.
 
+## Live Demo Link:
+https://currency-swap-app.vercel.app/
+
 ## Features
 
 - **Token Swapping**: Swap between multiple cryptocurrency tokens
